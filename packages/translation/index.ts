@@ -1,5 +1,5 @@
-import translationEN from "./en.json";
-import translationFR from "./fr.json";
+import translationEN from "./en";
+import translationFR from "./fr";
 
 export enum Languages {
   EN = "EN",
