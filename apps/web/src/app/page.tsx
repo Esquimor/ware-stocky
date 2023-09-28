@@ -7,7 +7,7 @@ export default async function Home() {
   return (
     <main>
       <Test />
-      <span className="text-red">{greeting}</span>
+      <span className="text-red-700">{greeting}</span>
     </main>
   )
 }

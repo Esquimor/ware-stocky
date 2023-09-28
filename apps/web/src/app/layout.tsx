@@ -1,4 +1,4 @@
-import "shared-ui/styles.css";
+import "shared-ui/dist/assets/styles.css"
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {

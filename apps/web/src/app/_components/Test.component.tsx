@@ -1,6 +1,6 @@
 "use client"
 
-import { Button } from "shared-ui/Button"
+import {Button} from "shared-ui/dist/main"
 
 export default function Test() {
   const handleClick = () => {

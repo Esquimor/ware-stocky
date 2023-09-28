@@ -1,1 +1,2 @@
-module.exports = require("share-style/tailwind/tailwind.config");
+/** @type {import('tailwindcss').Config} */
+module.exports = require("shared-style/dist/tailwind/tailwind.config");
